@@ -118,4 +118,4 @@ Syntax Error Class
 Custom class which extends the runtime exception and uses a constructor which has a string variable named message. The super method has the message string within its parameters. This custom exception is used to address the user if the operand stack is not empty by throwing a syntax error which displays error 2 JOptionPane GUI Object along with the message informing the user to check the expression entered since the stack was never cleared after the conversion.  
  
 
-Note: The application for the works well their is a small bug where not the full values of the output display after the conversion. I am currently working on correcting the minor bug but if you identify it or have any suggestions please email me @ marte07x@gmail.com
+Note: The application works well but their is a small bug where not the full values of the output display after the conversion. I am currently working on correcting the minor bug but if you identify it or have any suggestions please email me @ marte07x@gmail.com
